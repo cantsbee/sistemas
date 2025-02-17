@@ -4,3 +4,5 @@ Además de la sintaxis diferente de cada consola, el archivo inicial contaba con
 por lo que fue necesario corregir estructuras de control (bucles para que si el usuario introducía una opcion diferente a 1 o 2, el jugador volviera al inicio). 
 También se comenta cada función y se cambia de color el fondo. 
 Al final se pide al jugador que presione enter para cerrar la pestaña. 
+Para pasar de script bash a powershell se consultan los cmdlets con comandos como get-help -detailed
+tTambién he consultado en diferentes foros como StackOverflow y herramientas como Taskade.
