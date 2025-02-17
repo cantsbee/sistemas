@@ -5,4 +5,4 @@ por lo que fue necesario corregir estructuras de control (bucles para que si el 
 También se comenta cada función y se cambia de color el fondo. 
 Al final se pide al jugador que presione enter para cerrar la pestaña. 
 Para pasar de script bash a powershell se consultan los cmdlets con comandos como get-help -detailed
-tTambién he consultado en diferentes foros como StackOverflow y herramientas como Taskade.
+También he consultado en diferentes foros como StackOverflow y herramientas como Taskade.
